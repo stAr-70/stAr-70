@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Sarah! 👋
 
-<!--
-**stAr-70/stAr-70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+- 🎓 **Software Engineering Graduate**
+- 💻 Passionate about **Full-Stack Web Development** and building modern applications.
+- 🎯 Currently focusing on developing web applications using **.NET Frameworks**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** C#, Java, C++, HTML5, CSS3, JavaScript
+- **Frameworks:** ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms, Bootstrap
+- **Tools & Practices:** Git, SDLC, Requirements Engineering, Quality Assurance
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** https://linkedin.com/in/sarah-alharbi-43541334a
+- **Email:** sarah0al456@gmail.com
