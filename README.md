@@ -1,4 +1,3 @@
-# Hi there, I'm Sarah! 👋
 
 ### 👩‍💻 About Me
 - 🎓 **Software Engineering Graduate**
